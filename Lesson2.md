@@ -51,7 +51,7 @@ if (HowMuchanHour != null && HowMuchanHour != "")
 }
 ```
 
-## Part 3
+## Part 4
 
 ```js
 var HowMuchanHour = "";
@@ -66,7 +66,7 @@ if (ValidInput)
 }
 ```
 
-## Part 4 
+## Part 5 - Advanced
 
 ```js
 var howMuchAnHour = prompt("How much an hour?", "");
@@ -95,7 +95,7 @@ else{
 
 ```
 
-## Part 4 - Advanced
+## Part 6 - Advanced
 
 ```js
 var howMuchAnHour = prompt("How much an hour?", "");
