@@ -4,13 +4,22 @@ Will go over writing our own
 
 ## Part 1
 
+```js
 var HowMuchanHour = 300;
 
 var HowManyHoursAWeek = 40;
 
 var TotalPay =  <> * <>;
+```
 
 ## Part 2
+
+```js
+// Not equals to
+// !==
+// !=
+// is not null
+// <> 
 
 var HowMuchanHour = 300;
 
@@ -24,11 +33,11 @@ if (<var1> != null && <var1> != "")
     }
 }
 
+```
 
 ## Part 3
 
-## Part 2
-
+```js
 var HowMuchanHour = 300;
 
 var HowManyHoursAWeek = 40;
@@ -40,9 +49,11 @@ if (HowMuchanHour != null && HowMuchanHour != "")
         var TotalPay =  HowMuchanHour * HowManyHoursAWeek;
     }
 }
+```
 
 ## Part 3
 
+```js
 var HowMuchanHour = "";
 var HowManyHoursAWeek = 40;
 var TotalPay = "";
@@ -53,10 +64,11 @@ if (ValidInput)
 {
     TotalPay =  HowMuchanHour * HowManyHoursAWeek;
 }
+```
 
 ## Part 4 
 
-
+```js
 var howMuchAnHour = prompt("How much an hour?", "");
 
 if (howMuchAnHour != null && howMuchAnHour != "") {
@@ -81,10 +93,11 @@ else{
     document.write("Invalid input");
 }
 
+```
 
 ## Part 4 - Advanced
 
-
+```js
 var howMuchAnHour = prompt("How much an hour?", "");
 
 if (howMuchAnHour != null && howMuchAnHour != "") {
@@ -145,3 +158,4 @@ if (ValidInput)
 else{
     document.write("Invalid input");
 }
+```
