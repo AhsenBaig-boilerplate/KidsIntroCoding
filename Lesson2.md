@@ -121,9 +121,10 @@ if (ValidInput)
 else{
     document.write("Invalid input");
 }
+```
+## Part 7 - Advanced final
 
-## Part 4 - Advanced final
-
+```js
 var howMuchAnHour = prompt("How much an hour?", "");
 
 var validHoursValue = howMuchAnHour != null && howMuchAnHour != "" &&  !isNaN(howMuchAnHour);
