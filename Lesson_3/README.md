@@ -28,5 +28,74 @@ Building block for websites. Defines elements in the page (buttons, links, image
     <!doctype html>
 ```
 
+### Center the text
+
+```HTML
+<!doctype html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <center>
+            <h1>This is text that is centered</h1>
+        </center>
+    </body>
+</html>
+```
+
+### Add additional heading tags
+
+```HTML
+<!doctype html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <center>
+            <h1>This is text that is centered</h1>
+            <h2>Second heading</h2>
+            <h3>Third Heading</h3>
+        </center>
+    </body>
+</html>
+```
+
+### Add paragraphs and not center headers
+
+```HTML
+<!doctype html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <center>
+            <h1>This is text that is centered</h1>            
+        </center>
+        <h2>Second heading</h2>
+        <p>First paragraph</p>        
+        <h3>Third Heading</h3>
+        <p>Second paragraph</p>
+    </body>
+</html>
+```
+
+### Add Images
+
+```HTML
+<!doctype html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <center>
+            <h1>This is text that is centered</h1>
+            <h2>Second heading</h2>
+            <img src="ImageLink">
+        </center>
+    </body>
+</html>
+```
+
+
 ## CSS - Cascading Style Sheets
   
