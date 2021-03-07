@@ -1,6 +1,10 @@
 # Learn HTML & CSS
 
-We will go over the basics of HTML and CSS. Where it is used and how it works.
+We will go over the basics of HTML and CSS. Where it is used and how it works. 
+
+For this demo we can use various editors to make it easy to write code: VSCode 
+
+Online Editor: https://jsfiddle.net/
 
 ## HTNL - Hypertext Markup Language
 
