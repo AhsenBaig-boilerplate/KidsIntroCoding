@@ -6,7 +6,7 @@ For this demo we can use various editors to make it easy to write code: VSCode
 
 Online Editor: https://jsfiddle.net/
 
-## HTNL - Hypertext Markup Language
+## HTNL - Hypertext Markup Language (.html/.htm)
 
 Building block for websites. Defines elements in the page (buttons, links, images, text, etc.)
 
