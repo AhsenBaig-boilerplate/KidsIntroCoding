@@ -18,7 +18,7 @@ Building block for websites. Defines elements in the page (buttons, links, image
     <body>
         <h1>This is a heading</h1>
         <p>This is a paragraph</p>
-        <p>This is another paragraph></p>
+        <p>This is another paragraph</p>
     </body>
 </html>
 ``` 
@@ -32,6 +32,7 @@ Building block for websites. Defines elements in the page (buttons, links, image
 
 ```HTML
 <!doctype html>
+<html>
     <head>
         <title>Page Title</title>
     </head>
