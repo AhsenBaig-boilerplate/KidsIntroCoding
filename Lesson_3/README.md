@@ -48,6 +48,7 @@ Building block for websites. Defines elements in the page (buttons, links, image
 
 ```HTML
 <!doctype html>
+<html>
     <head>
         <title>Page Title</title>
     </head>
@@ -65,6 +66,7 @@ Building block for websites. Defines elements in the page (buttons, links, image
 
 ```HTML
 <!doctype html>
+<html>
     <head>
         <title>Page Title</title>
     </head>
@@ -84,6 +86,7 @@ Building block for websites. Defines elements in the page (buttons, links, image
 
 ```HTML
 <!doctype html>
+<html>
     <head>
         <title>Page Title</title>
     </head>
@@ -101,6 +104,7 @@ Building block for websites. Defines elements in the page (buttons, links, image
 
 ```HTML
 <!doctype html>
+<html>
     <head>
         <title>Page Title</title>
     </head>
@@ -121,6 +125,7 @@ Building block for websites. Defines elements in the page (buttons, links, image
   
 ```HTML
 <!doctype html>
+<html>
     <head>
         <title>Page Title</title>
     </head>
@@ -141,6 +146,7 @@ Building block for websites. Defines elements in the page (buttons, links, image
 
 ```HTML
 <!doctype html>
+<html>
     <head>
         <title>Page Title</title>
         <style>
@@ -167,6 +173,7 @@ Building block for websites. Defines elements in the page (buttons, links, image
 
 ```HTML
 <!doctype html>
+<html>
     <head>
         <title>Page Title</title>
         <style>
@@ -195,6 +202,7 @@ Building block for websites. Defines elements in the page (buttons, links, image
 
 ```HTML
 <!doctype html>
+<html>
     <head>
         <title>Page Title</title>
         <style>
@@ -223,6 +231,7 @@ Building block for websites. Defines elements in the page (buttons, links, image
 
 ```HTML
 <!doctype html>
+<html>
     <head>
         <title>Page Title</title>
         <style>
