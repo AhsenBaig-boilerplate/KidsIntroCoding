@@ -21,7 +21,12 @@ Building block for websites. Defines elements in the page (buttons, links, image
         <p>This is another paragraph></p>
     </body>
 </html>
-```    
+``` 
+### doctype - we can use a simple doctype for HTML 5 (the version of the html language.)
+
+```HTML
+    <!doctype html>
+```
 
 ## CSS - Cascading Style Sheets
   
